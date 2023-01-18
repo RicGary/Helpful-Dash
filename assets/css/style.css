@@ -1,0 +1,14 @@
+body{
+    background-color: #F9F9F9;
+    text-align: center;
+    overflow: hidden;
+}
+
+
+h1{
+    color: #54BAB9;
+}
+
+#home-container{
+    margin-bottom: 5vh;
+}
